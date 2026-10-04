@@ -67,9 +67,3 @@ TFLite Micro runtime
 - Quantization applied  
 - Working on Quantization-aware training  
 
-
-## Related Work
-This project extends my undergraduate 
-IEEE-published research on real-time 
-EEG-based emotion detection on 
-microcontrollers (IEEE RAICS 2025).
