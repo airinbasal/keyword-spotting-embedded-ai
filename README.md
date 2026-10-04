@@ -2,8 +2,8 @@
 
 A complete keyword spotting pipeline 
 built for ARM Cortex-M deployment using 
-TensorFlow Lite — designed around embedded 
-constraints from day one.
+TensorFlow Lite, designed around embedded 
+constraints.
 
 ## What it does
 Detects spoken keywords (yes, no, stop, 
@@ -61,12 +61,12 @@ ARM Cortex-M microcontrollers via
 TFLite Micro runtime
 
 ## Status
-✅ Data pipeline complete  
-✅ Model trained (85.5% accuracy)  
-✅ TFLite conversion complete  
-✅ Quantization applied  
-🔜 Quantization-aware training  
-🔜 ARM Cortex-M hardware deployment  
+- Data pipeline complete  
+- Model trained (85.5% accuracy)  
+- TFLite conversion complete  
+- Quantization applied  
+- Working on Quantization-aware training  
+
 
 ## Related Work
 This project extends my undergraduate 
